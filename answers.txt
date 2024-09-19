@@ -7,3 +7,11 @@ Q2: What field could data science be applied to? Give and Example and how it mig
 
 Answer: Data science can be applied to the financial industry. You can process large 
 datasets of markets and use it to make optimal decisions about buying and selling.
+
+
+Q3: What is the difference between merging and rebasing?
+
+Answer: Merging is safe and ensures that there are no conflicts between branches. 
+Rebasing will move your branches to the tip of main and overwrite certain parts. Also, 
+if you don't follow the golden rule of rebasing (never do it on public branches) your 
+main branch will diverge from everyone elses and create many problems.
